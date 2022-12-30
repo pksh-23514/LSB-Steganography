@@ -1,4 +1,4 @@
-# LSB Image Steganography Project
+# LSB Image Steganography
 
 ## Abstarct:
 
